@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:id="@+id/scrollView"
+	android:layout_weight="0.09"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#E0EEEE"
+	android:orientation="vertical"
+	android:weightSum="0.5">
+
+
+	<TextView
+		android:id="@+id/etResponse"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="15dp"
+		android:padding="15dp"
+		android:ems="10"
+		android:layout_marginTop="10dp"
+		android:background="@drawable/selector_card_background"
+		android:layout_weight="0.04" />
+
+
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="30dp"
+		android:padding="15dp"
+		android:layout_margin="15dp"
+		android:id="@+id/etResponse1"
+		android:background="@drawable/selector_card_background"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/etResponse"
+		android:layout_weight="0.04" />
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="10dp"
+		android:padding="15dp"
+		android:layout_margin="15dp"
+		android:id="@+id/etResponse2"
+		android:background="@drawable/selector_card_background"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/etResponse1"
+		android:layout_weight="0.11" />
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="30dp"
+		android:padding="15dp"
+		android:layout_margin="15dp"
+		android:id="@+id/etResponse3"
+		android:background="@drawable/selector_card_background"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/etResponse2"
+		android:layout_weight="0.11" />
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="30dp"
+		android:padding="15dp"
+		android:layout_margin="15dp"
+		android:id="@+id/etResponse4"
+		android:background="@drawable/selector_card_background"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/etResponse3"
+		android:layout_weight="0.11" />
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="30dp"
+		android:padding="15dp"
+		android:layout_margin="15dp"
+		android:id="@+id/etResponse5"
+		android:background="@drawable/selector_card_background"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/etResponse4"
+		android:layout_weight="0.11" />
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="30dp"
+		android:padding="15dp"
+		android:layout_margin="15dp"
+		android:id="@+id/etResponse6"
+		android:background="@drawable/selector_card_background"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/etResponse5"
+		android:layout_weight="0.11" />
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="30dp"
+		android:padding="15dp"
+		android:layout_margin="15dp"
+		android:id="@+id/etResponse7"
+		android:background="@drawable/selector_card_background"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/etResponse6"
+		android:layout_weight="0.11" />
+
+
+
+</LinearLayout>
+</ScrollView><!-- From: file:/home/sys4/Desktop/project/hellocard/app/src/main/res/layout/hello_card.xml -->
