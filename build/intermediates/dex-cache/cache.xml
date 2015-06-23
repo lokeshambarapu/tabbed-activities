@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sys4/Desktop/project/hellocard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/sys4/Desktop/project/hellocard/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d2cfb068830f24c75c692f542d6380e356a7b00a.jar" />
+    </item>
+    <item
+        jar="/home/sys4/Desktop/project/hellocard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/sys4/Desktop/project/hellocard/app/build/intermediates/pre-dexed/debug/classes-285a65724e60320882367579fcafb9fc88ba0b50.jar" />
+    </item>
+    <item
+        jar="/home/sys4/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/sys4/Desktop/project/hellocard/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-52a4569812ec26a530dd8764a19ea720e122cbf8.jar" />
+    </item>
+    <item
+        jar="/home/sys4/Desktop/project/hellocard/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="/home/sys4/Desktop/project/hellocard/app/build/intermediates/pre-dexed/debug/classes-a0427fe119eaa4c0dec499c605e8c9c3936f7ff6.jar" />
+    </item>
+
+</items>
